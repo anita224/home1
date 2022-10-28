@@ -1,0 +1,108 @@
+.span-logo {
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 1, 1923;
+  letter-spacing: 0.03em;
+  color: #2196f3;
+}
+.span-logo-2part {
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 1, 1923;
+  letter-spacing: 0.03em;
+  color: #000000;
+}
+header a {
+  color: #000000;
+  text-decoration: none;
+}
+a:hover {
+  color: #2196f3;
+}
+.nav-list {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1, 1428;
+  letter-spacing: 0.02em;
+  list-style-type: none;
+}
+
+.nav-contact {
+  list-style: none;
+  color: #000000;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1, 1428;
+  letter-spacing: 0.02em;
+}
+
+/*главный экран*/
+.hero {
+  background-color: #2f303a;
+}
+h1 {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 44px;
+  line-height: 1, 3636;
+  text-align: center;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+.btn-hero {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 30px;
+  color: #ffffff;
+  background: #2196f3;
+}
+.advantage {
+}
+.hide {
+  position: absolute;
+  white-space: nowrap;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  border: 0;
+  padding: 0;
+  clip: rect(0 0 0 0);
+  clip-path: inset(50%);
+  margin: -1px;
+}
+
+.advantage-list {
+  list-style: none;
+}
+.advantage-tittle {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 1, 1428;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+
+  color: #212121;
+}
+.advantage-p {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1, 7142;
+  letter-spacing: 0.03em;
+  color: #757575;
+}
