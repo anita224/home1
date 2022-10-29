@@ -1,3 +1,18 @@
+li,
+a {
+  text-decoration: none;
+  list-style-type: none;
+}
+h2 {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.1666;
+  text-align: center;
+  letter-spacing: 0.03em;
+  color: #212121;
+}
 .span-logo {
   font-family: "Raleway";
   font-style: normal;
@@ -18,7 +33,6 @@
 }
 header a {
   color: #000000;
-  text-decoration: none;
 }
 a:hover {
   color: #2196f3;
@@ -30,7 +44,6 @@ a:hover {
   font-size: 14px;
   line-height: 1, 1428;
   letter-spacing: 0.02em;
-  list-style-type: none;
 }
 
 .nav-contact {
@@ -80,10 +93,6 @@ h1 {
   clip-path: inset(50%);
   margin: -1px;
 }
-
-.advantage-list {
-  list-style: none;
-}
 .advantage-tittle {
   font-family: "Roboto";
   font-style: normal;
@@ -103,4 +112,61 @@ h1 {
   line-height: 1, 7142;
   letter-spacing: 0.03em;
   color: #757575;
+}
+
+.our-team {
+}
+.team-list {
+}
+.team {
+}
+.team-name {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1, 1875;
+  letter-spacing: 0.03em;
+  color: #212121;
+}
+.team-speciality {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1, 1875;
+  letter-spacing: 0.03em;
+  color: #757575;
+}
+footer {
+  background-color: #2f303a;
+}
+.span-logo2parr-footer {
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 1, 1923;
+  letter-spacing: 0.03em;
+  color: #ffffff;
+}
+.footer-contact {
+}
+.footer-adress {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1, 7142;
+  letter-spacing: 0.03em;
+  color: #ffffff;
+}
+.footer-contacts {
+  font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 1, 7142;
+letter-spacing: 0.03em;
+color: rgba(255, 255, 255, 0.6);
 }
